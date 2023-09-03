@@ -1,7 +1,0 @@
-numpy
-pickle-mixin
-streamlit
-streamlit-option-menu
-scikit-learn
-xgboost==1.0.2
-numba==0.48.0
